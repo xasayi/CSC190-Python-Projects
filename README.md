@@ -1,2 +1,2 @@
 # Python-Projects
-This repository contains project that uses python as a language
+This repository contains python projects from ESC180.
